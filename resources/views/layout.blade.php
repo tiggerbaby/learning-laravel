@@ -9,9 +9,10 @@
 
     </head>
     <body>
-    <li><a href="/">Home Page</a></li>
-    <li><a href="/about">About Page</a></li>
-    <li><a href="/contact">Contact Page</a></li>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/cards">Cards</a></li>
+    <li><a href="/contact">Contact</a></li>
 
    @yield('content')
 </body>
